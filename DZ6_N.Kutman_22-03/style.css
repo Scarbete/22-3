@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.btn_box {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.btn {
+    padding: 5px 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    outline: none;
+}
+/* Задание - 2 */
+
+.input_box {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.numb {
+    outline: none;
+}
+.minus, .plus{
+    padding: 0 5px;
+}
